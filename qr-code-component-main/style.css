@@ -105,14 +105,15 @@ body {
 }
 
 .p_bold {
-  padding: 1rem 1.3rem;
+  padding: 1rem 1.5rem;
+  font-size: 1.6rem;
   font-weight: var(--fw-bold);
 }
 
 .p_light {
   font-size: 15px;
   color: var(--gray_blue);
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
+  padding-left: 1.97rem;
+  padding-right: 1.97rem;
   margin-bottom: 1rem;
 }
